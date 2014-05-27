@@ -1,0 +1,110 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: my_bst.bst
+bbl.etal is an unknown function---line 201 of file my_bst.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Pancreas.bib
+You can't pop an empty literal stack for entry hessel_prospective_1982
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry mehmet_erturk_pancreatic_2006
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry dewitt_comparison_2004
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry okano_18f-fluorodeoxyglucose_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry matsumoto_18-fluorodeoxyglucose_2013
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry seo_contribution_2008
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry bronstein_detection_2004
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry yoon_small_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry kim_visually_2010
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry takakura_clinical_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry bipat_ultrasonography_2005
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry fusari_comparison_2010
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry kim_focal_2007
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry koelblinger_gadobenate_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry tang_usefulness_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry buchs_value_2011
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry wang_use_2013
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry klimov_2006
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry kato_limited_2013
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry ichikawa_duct-penetrating_2001
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry wu_value_2012
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry matsuki_diffusion-weighed_2007
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry ichikawa_high-b_2007
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry rose_18fluorodeoxyglucose-positron_1999
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry nakamoto_delayed_2000
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry ozaki_differentiation_2008
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry heinrich_positron_2005
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry lee_utility_2009
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry eloubeidi_prospective_2007
+while executing---line 491 of file my_bst.bst
+You can't pop an empty literal stack for entry zhu_differentiation_2013
+while executing---line 491 of file my_bst.bst
+You've used 72 entries,
+            1027 wiz_defined-function locations,
+            674 strings with 22174 characters,
+and the built_in function-call counts, 22118 in all, are:
+= -- 1896
+> -- 1416
+< -- 0
++ -- 354
+- -- 354
+* -- 566
+:= -- 2460
+add.period$ -- 72
+call.type$ -- 72
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 2014
+empty$ -- 2034
+format.name$ -- 354
+if$ -- 5405
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 485
+newline$ -- 219
+num.names$ -- 72
+pop$ -- 617
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1279
+stack$ -- 0
+substring$ -- 0
+swap$ -- 970
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 72
+width$ -- 72
+write$ -- 1262
+(There were 31 error messages)

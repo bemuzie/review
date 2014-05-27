@@ -1,0 +1,15 @@
+name,TP,FN,FP,TN,method,notes
+  'matsumoto_18_fluorodeoxyglucose_2013',204,14,11,3,PET,
+  'van_kouwen_fdg_pet_2005' ,24,2,10,67,PET,
+  'rose_18fluorodeoxyglucose_positron_1999' ,48,4,2,11,PET,
+  'nakamoto_delayed_2000_SUV1h_2.8' ,26,1,5,15,PET,
+  'nakamoto_delayed_2000_SUV2h_2.4' ,27,0,5,15,PET,
+  'nakamoto_delayed_2000_SUV2h_2.4_RI_15' ,27,0,4,16,PET,
+  'ozaki_differentiation_2008' ,19,7,15,0,PET,
+  'heinrich_positron_2005' ,41,5,4,9,PET,
+  'lee_utility_2009' ,124,27,17,0,PET,
+  'lee_utility_2009_diffuse_vs_loc' ,120,4,8,9,PET,
+  'kato_limited_2013' ,20,10,7,4,PET,
+  'nakamoto_delayed_2000' ,22,5,3,17,PET,
+yamada_pancreatic_2010,42,9,4,20,CT,prot1
+yamada_pancreatic_2010,32,2,3,15,CT,prot2
