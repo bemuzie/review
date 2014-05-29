@@ -42,7 +42,7 @@
 \bibitem{tlostanova_2008}
 \selectlanguageifdefined{russian}
 \BibEmph{Тлостанова~М. С., Тютин~Л. А., Рыжкова~Д.
-  В. {\cyr\cyri~\cyrd\cyrr.}} Роль ПЭТ с $^18$F-ФДГ в
+  В. {\cyr\cyri~\cyrd\cyrr.}} Роль ПЭТ с $^{18}F$-ФДГ в
   лучевой диагностике объемных образований
   поджелудочной железы~// \BibEmph{Вопросы
   онкологии}~--- 2008~--- ~54~--- ~4~--- {\cyr\CYRS.}~439 -- 444.
@@ -66,7 +66,7 @@
 
 \bibitem{bipat_ultrasonography_2005}
 \selectlanguageifdefined{eng}
-\BibEmph{Bipat~S., Phoa~S. S. K.~S., van. Delden~O.~M. et~al}. Ultrasonography,
+\BibEmph{Bipat~S., Phoa~S. S. K.~S., van Delden~O.~M. et~al}. Ultrasonography,
   computed tomography and magnetic resonance imaging for diagnosis and
   determining resectability of pancreatic adenocarcinoma: a meta-analysis~//
   \BibEmph{Journal of computer assisted tomography}~--- 2005~--- ~29~--- ~4~---
@@ -430,7 +430,7 @@
 
 \bibitem{rijkers_usefulness_2014}
 \selectlanguageifdefined{{'ENG'}}
-\BibEmph{Rijkers~A.~P., Valkema~R., Duivenvoorden~H.~J., van. Eijck~C. H.~J.}
+\BibEmph{Rijkers~A.~P., Valkema~R., Duivenvoorden~H.~J., van Eijck~C. H.~J.}
   Usefulness of F-18-fluorodeoxyglucose positron emission tomography to confirm
   suspected pancreatic cancer: A meta-analysis.~//
   \href{http://www.ncbi.nlm.nih.gov/pubmed/24755095}{\BibEmph{European journal
@@ -493,8 +493,8 @@
 
 \bibitem{van_kouwen_fdg-pet_2005}
 \selectlanguageifdefined{eng}
-\BibEmph{van. Kouwen~M. C.~A., Jansen~J. B. M.~J., van. Goor~H. et~al}.
-  {FDG-PET} is able to detect pancreatic carcinoma in chronic pancreatitis~//
+\BibEmph{van Kouwen~M. C.~A., Jansen~J. B. M.~J., van Goor~H. et~al}. {FDG-PET}
+  is able to detect pancreatic carcinoma in chronic pancreatitis~//
   \href{http://dx.doi.org/10.1007/s00259-004-1689-4}{\BibEmph{European journal
   of nuclear medicine and molecular imaging}}~--- 2005~--- ~32~--- ~4~---
   P.~399--404.
