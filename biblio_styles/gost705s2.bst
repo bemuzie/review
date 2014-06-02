@@ -107,6 +107,7 @@ FUNCTION {output.nonnull}
     { ", " * write$ }
     { output.state after.block =
         { add.period$ " " * write$
+          " --- " write$
           newline$
           "\newblock " write$
         }
@@ -377,12 +378,12 @@ FUNCTION {bbl.vvolume} % { "\bblVolume{}" }
 FUNCTION {bbl.vvol} % { "\bblVol{}" }
 {
   curlanguage "english" =
-    { "" }
+    { "Vol." }
     { curlanguage "german" =
-      { "" }
+      { "Vol." }
       { curlanguage "russian" =
-        { "" }
-        { "language is not defined: " language  "" * * warning$ "" }
+        { "Т." }
+        { "Vol." }
         if$
       }
     if$
@@ -489,12 +490,12 @@ FUNCTION {bbl.number} % { "\bblnumber{}" }
 FUNCTION {bbl.nr} % { "\bblno{}" }
 {
   curlanguage "english" =
-    { "" }
+    { "№" }
     { curlanguage "german" =
-      { "" }
+      { "№" }
       { curlanguage "russian" =
-        { "" }
-        { "language is not defined: " language * warning$ "" }
+        { "№" }
+        { "№" }
       if$
       }
     if$
@@ -868,7 +869,7 @@ FUNCTION {format.date}
     }
     { month empty$
         'year
-        { year}
+        { year }
       if$
     }
   if$
@@ -1368,13 +1369,13 @@ FUNCTION {article}
   format.title "title" output.check
   new.dblslash
   journal emphasize add.doi.url "journal" output.check
-  new.dash
+  new.block
   format.date output
-  new.dash
+  new.block
   format.volume output
-  new.dash
+  new.block
   format.number output
-  new.dash
+  new.block
   format.pages.page output
   fin.entry
 }
