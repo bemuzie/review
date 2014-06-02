@@ -76,7 +76,8 @@
 \selectlanguageifdefined{english}
 \BibEmph{Baron~R.~L.} Understanding and optimizing use of contrast material for
   {CT} of the liver.~//
-  \href{http://www.ajronline.org/content/163/2/323.short}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://www.ajronline.org/content/163/2/323.short}{\BibEmph{American
+  Journal of Roentgenology}}.  ---
 \newblock 1994.  ---
 \newblock Vol. 163.  ---
 \newblock №~2.  ---
@@ -87,7 +88,7 @@
 \BibEmph{Bipat~S., Phoa~S. S. K.~S., van Delden~O.~M. et~al}. Ultrasonography,
   computed tomography and magnetic resonance imaging for diagnosis and
   determining resectability of pancreatic adenocarcinoma: a meta-analysis~//
-  \BibEmph{J Comput Tomogr}.  ---
+  \BibEmph{Journal of computer assisted tomography}.  ---
 \newblock 2005.  ---
 \newblock Vol.~29.  ---
 \newblock №~4.  ---
@@ -98,7 +99,8 @@
 \BibEmph{Boland~G.~W., {O'Malley}~M.~E., Saez~M. et~al}. Pancreatic-phase
   versus portal vein-phase helical {CT} of the pancreas: optimal temporal
   window for evaluation of pancreatic adenocarcinoma.~//
-  \href{http://www.ajronline.org/content/172/3/605}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://www.ajronline.org/content/172/3/605}{\BibEmph{American Journal
+  of Roentgenology}}.  ---
 \newblock 1999.  ---
 \newblock Vol. 172.  ---
 \newblock №~3.  ---
@@ -108,7 +110,8 @@
 \selectlanguageifdefined{english}
 \BibEmph{Bronstein~Y.~L., Loyer~E.~M., Kaur~H. et~al.} Detection of small
   pancreatic tumors with multiphasic helical {CT}~//
-  \href{http://www.ajronline.org/content/182/3/619.abstract}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://www.ajronline.org/content/182/3/619.abstract}{\BibEmph{American
+  Journal of Roentgenology}}.  ---
 \newblock 2004.  ---
 \newblock Vol. 182.  ---
 \newblock №~3.  ---
@@ -120,7 +123,8 @@
   {18F-fluorodeoxyglucose} positron emission tomography/computed tomography in
   detection and presurgical assessment of pancreatic cancer: a prospective
   study~//
-  \href{http://dx.doi.org/10.1111/j.1440-1746.2010.06525.x}{\BibEmph{J Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1111/j.1440-1746.2010.06525.x}{\BibEmph{Journal of
+  gastroenterology and hepatology}}.  ---
 \newblock 2011.  ---
 \newblock Vol.~26.  ---
 \newblock №~4.  ---
@@ -130,7 +134,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Chang~D.~K., Nguyen~N.~Q., Merrett~N.~D. et~al}. Role of endoscopic
   ultrasound in pancreatic cancer~//
-  \href{http://dx.doi.org/10.1586/egh.09.18}{\BibEmph{Expert Rev Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1586/egh.09.18}{\BibEmph{Expert review of
+  gastroenterology \& hepatology}}.  ---
 \newblock 2009.  ---
 \newblock Vol.~3.  ---
 \newblock №~3.  ---
@@ -141,7 +146,8 @@
 \BibEmph{Chen~V.~K., Arguedas~M.~R., Kilgore~M.~L., Eloubeidi~M.~A.} A
   cost-minimization analysis of alternative strategies in diagnosing pancreatic
   cancer~//
-  \href{http://dx.doi.org/10.1111/j.1572-0241.2004.40042.x}{\BibEmph{Am J Gastroenterol }}.  ---
+  \href{http://dx.doi.org/10.1111/j.1572-0241.2004.40042.x}{\BibEmph{The
+  American journal of gastroenterology}}.  ---
 \newblock 2004.  ---
 \newblock Vol.~99.  ---
 \newblock №~11.  ---
@@ -152,7 +158,7 @@
 \BibEmph{{DeWitt}~J., Devereaux~B., Chriswell~M. et~al.} Comparison of
   Endoscopic Ultrasonography and Multidetector Computed Tomography for
   Detecting and Staging Pancreatic Cancer~//
-  \href{http://dx.doi.org/}{\BibEmph{Ann Intern Med}}.  ---
+  \href{http://dx.doi.org/}{\BibEmph{Annals of Internal Medicine}}.  ---
 \newblock 2004.  ---
 \newblock Vol. 141.  ---
 \newblock №~10.  ---
@@ -162,7 +168,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{{D'Onofrio}~M., Gallotti~A., Pozzi~Mucelli~R.} Imaging techniques in
   pancreatic tumors.~//
-  \href{http://dx.doi.org/10.1586/erd.09.67}{\BibEmph{Expert Rev Med Devices}}.  ---
+  \href{http://dx.doi.org/10.1586/erd.09.67}{\BibEmph{Expert review of medical
+  devices}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~7.  ---
 \newblock №~2.  ---
@@ -173,7 +180,9 @@
 \BibEmph{Eloubeidi~M.~A., Varadarajulu~S., Desai~S. et~al}. A prospective
   evaluation of an algorithm incorporating routine preoperative endoscopic
   ultrasound-guided fine needle aspiration in suspected pancreatic cancer~//
-  \href{http://dx.doi.org/10.1007/s11605-007-0151-x}{\BibEmph{J Gastrointest Surg}}.  ---
+  \href{http://dx.doi.org/10.1007/s11605-007-0151-x}{\BibEmph{Journal of
+  gastrointestinal surgery: official journal of the Society for Surgery of the
+  Alimentary Tract}}.  ---
 \newblock 2007.  ---
 \newblock Vol.~11.  ---
 \newblock №~7.  ---
@@ -184,7 +193,8 @@
 \BibEmph{Fattahi~R., Balci~N.~C., Perman~W.~H. et~al}. Pancreatic
   diffusion-weighted imaging ({DWI):} comparison between mass-forming focal
   pancreatitis ({FP)}, pancreatic cancer ({PC)}, and normal pancreas~//
-  \href{http://dx.doi.org/10.1002/jmri.21651}{\BibEmph{J Magn Reson Imaging}}.  ---
+  \href{http://dx.doi.org/10.1002/jmri.21651}{\BibEmph{Journal of magnetic
+  resonance imaging: {JMRI}}}.  ---
 \newblock 2009.  ---
 \newblock Vol.~29.  ---
 \newblock №~2.  ---
@@ -194,7 +204,7 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Fenchel~S., Fleiter~T.~R., Aschoff~A.~J. et~al}. Effect of iodine
   concentration of contrast media on contrast enhancement in multislice {CT} of
-  the pancreas~// \BibEmph{Br J Radiol}.  ---
+  the pancreas~// \BibEmph{The British journal of radiology}.  ---
 \newblock 2004.  ---
 \newblock Vol.~77.  ---
 \newblock № 922.  ---
@@ -203,7 +213,8 @@
 \bibitem{fujii_pitfalls_2014}
 \selectlanguageifdefined{english}
 \BibEmph{Fujii~L.~L., Levy~M.~J.} Pitfalls in {EUS} {FNA}~//
-  \href{http://dx.doi.org/10.1016/j.giec.2013.08.003}{\BibEmph{Gastrointest Endosc Clin N Am}}.  ---
+  \href{http://dx.doi.org/10.1016/j.giec.2013.08.003}{\BibEmph{Gastrointestinal
+  Endoscopy Clinics of North America}}.  ---
 \newblock 2014.  ---
 \newblock Vol.~24.  ---
 \newblock №~1.  ---
@@ -213,7 +224,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Fukukura~Y., Hamada~H., Kamiyama~T. et~al}. Pancreatic adenocarcinoma:
   analysis of the effect of various concentrations of contrast material~//
-  \href{http://dx.doi.org/10.1007/s11604-008-0240-0}{\BibEmph{Radiat Med}}.  ---
+  \href{http://dx.doi.org/10.1007/s11604-008-0240-0}{\BibEmph{Radiation
+  medicine}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~26.  ---
 \newblock №~6.  ---
@@ -224,7 +236,8 @@
 \BibEmph{Fusari~M., Maurea~S., Imbriaco~M. et~al}. Comparison between
   multislice {CT} and {MR} imaging in the diagnostic evaluation of patients
   with pancreatic masses.~//
-  \href{http://dx.doi.org/10.1007/s11547-010-0490-7}{\BibEmph{Radiol Med}}.  ---
+  \href{http://dx.doi.org/10.1007/s11547-010-0490-7}{\BibEmph{La Radiologia
+  medica}}.  ---
 \newblock 2010.  ---
 \newblock Vol. 115.  ---
 \newblock №~3.  ---
@@ -234,7 +247,7 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Gong~J.-S., Xu~J.-M.} Role of curved planar reformations using
   multidetector spiral {CT} in diagnosis of pancreatic and peripancreatic
-  diseases~// \BibEmph{World J Gastroenterol}.  ---
+  diseases~// \BibEmph{World journal of gastroenterology: {WJG}}.  ---
 \newblock 2004.  ---
 \newblock Vol.~10.  ---
 \newblock №~13.  ---
@@ -244,7 +257,7 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Heinrich~S., Goerres~G.~W., Schäfer~M. et~al}. Positron emission
   tomography/computed tomography influences on the management of resectable
-  pancreatic cancer and its cost-effectiveness~// \BibEmph{Ann Surg}.
+  pancreatic cancer and its cost-effectiveness~// \BibEmph{Annals of surgery}.
   ---
 \newblock 2005.  ---
 \newblock Vol. 242.  ---
@@ -255,7 +268,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Helmstaedter~L., Riemann~J.~F.} Pancreatic cancer--{EUS} and early
   diagnosis~//
-  \href{http://dx.doi.org/10.1007/s00423-007-0275-1}{\BibEmph{Langenbecks Arch Surg}}.  ---
+  \href{http://dx.doi.org/10.1007/s00423-007-0275-1}{\BibEmph{Langenbeck's
+  archives of surgery / Deutsche Gesellschaft für Chirurgie}}.  ---
 \newblock 2008.  ---
 \newblock Vol. 393.  ---
 \newblock №~6.  ---
@@ -265,7 +279,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Herreros-Villanueva~M., Gironella~M., Castells~A., Bujanda~L.}
   Molecular markers in pancreatic cancer diagnosis~//
-  \href{http://dx.doi.org/10.1016/j.cca.2012.12.025}{\BibEmph{Clin Chim Acta}}.  ---
+  \href{http://dx.doi.org/10.1016/j.cca.2012.12.025}{\BibEmph{Clinica chimica
+  acta; international journal of clinical chemistry}}.  ---
 \newblock 2013.  ---
 \newblock Vol. 418.  ---
 \newblock P.~22--29.
@@ -308,7 +323,9 @@
 \BibEmph{Izuishi~K., Yamamoto~Y., Sano~T. et~al}. Impact of
   18-fluorodeoxyglucose positron emission tomography on the management of
   pancreatic cancer~//
-  \href{http://dx.doi.org/10.1007/s11605-010-1207-x}{\BibEmph{J Gastrointest Surg}}.  ---
+  \href{http://dx.doi.org/10.1007/s11605-010-1207-x}{\BibEmph{Journal of
+  gastrointestinal surgery: official journal of the Society for Surgery of the
+  Alimentary Tract}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~14.  ---
 \newblock №~7.  ---
@@ -318,7 +335,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Kartalis~N., Lindholm~T.~L., Aspelin~P. et~al}. Diffusion-weighted
   magnetic resonance imaging of pancreas tumours.~//
-  \href{http://dx.doi.org/10.1007/s00330-009-1384-8}{\BibEmph{Eur Radiol}}.  ---
+  \href{http://dx.doi.org/10.1007/s00330-009-1384-8}{\BibEmph{European
+  radiology}}.  ---
 \newblock 2009.  ---
 \newblock Vol.~19.  ---
 \newblock №~8.  ---
@@ -329,7 +347,8 @@
 \BibEmph{Kato~K., Nihashi~T., Ikeda~M. et~al}. Limited efficacy of ({18)F-FDG}
   {PET/CT} for differentiation between metastasis-free pancreatic cancer and
   mass-forming pancreatitis~//
-  \href{http://dx.doi.org/10.1097/RLU.0b013e3182817d9d}{\BibEmph{Clin Nucl Med}}.  ---
+  \href{http://dx.doi.org/10.1097/RLU.0b013e3182817d9d}{\BibEmph{Clinical
+  nuclear medicine}}.  ---
 \newblock 2013.  ---
 \newblock Vol.~38.  ---
 \newblock №~6.  ---
@@ -339,7 +358,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Kim~H.~J., Byun~J.~H., Park~S.~H. et~al}. Focal fatty replacement of
   the pancreas: usefulness of chemical shift {MRI}~//
-  \href{http://dx.doi.org/10.2214/AJR.05.1095}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://dx.doi.org/10.2214/AJR.05.1095}{\BibEmph{{AJR.} American journal
+  of roentgenology}}.  ---
 \newblock 2007.  ---
 \newblock Vol. 188.  ---
 \newblock №~2.  ---
@@ -360,7 +380,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Kinahan~P.~E., Hasegawa~B.~H., Beyer~T.} X-ray-based attenuation
   correction for positron emission tomography/computed tomography scanners~//
-  \href{http://dx.doi.org/10.1053/snuc.2003.127307}{\BibEmph{Semin Nucl Med}}.  ---
+  \href{http://dx.doi.org/10.1053/snuc.2003.127307}{\BibEmph{Seminars in
+  nuclear medicine}}.  ---
 \newblock 2003.  ---
 \newblock Vol.~33.  ---
 \newblock №~3.  ---
@@ -369,7 +390,8 @@
 \bibitem{kinney_evidence-based_2010}
 \selectlanguageifdefined{english}
 \BibEmph{Kinney~T.} Evidence-Based Imaging of Pancreatic Malignancies~//
-  \href{http://dx.doi.org/10.1016/j.suc.2009.12.003}{\BibEmph{Surg Clin North Am}}.  ---
+  \href{http://dx.doi.org/10.1016/j.suc.2009.12.003}{\BibEmph{Surgical Clinics
+  of North America}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~90.  ---
 \newblock №~2.  ---
@@ -392,7 +414,8 @@
 \BibEmph{Lee~T.~Y., Kim~M.-H., Park~D.~H. et~al}. Utility of {18F-FDG} {PET/CT}
   for differentiation of autoimmune pancreatitis with atypical pancreatic
   imaging findings from pancreatic cancer~//
-  \href{http://dx.doi.org/10.2214/AJR.08.2297}{\BibEmph{Am J Roentgenol}.  ---
+  \href{http://dx.doi.org/10.2214/AJR.08.2297}{\BibEmph{{AJR.} American journal
+  of roentgenology}}.  ---
 \newblock 2009.  ---
 \newblock Vol. 193.  ---
 \newblock №~2.  ---
@@ -402,7 +425,8 @@
 \selectlanguageifdefined{en}
 \BibEmph{Legmann~P., Vignaux~O., Dousset~B. et~al}. Pancreatic tumors:
   comparison of dual-phase helical {CT} and endoscopic sonography.~//
-  \href{http://www.ajronline.org/content/170/5/1315}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://www.ajronline.org/content/170/5/1315}{\BibEmph{American Journal
+  of Roentgenology}}.  ---
 \newblock 1998.  ---
 \newblock Vol. 170.  ---
 \newblock №~5.  ---
@@ -422,7 +446,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Matos~C., Bali~M.~A., Delhaye~M., Devière~J.} Magnetic resonance
   imaging in the detection of pancreatitis and pancreatic neoplasms~//
-  \href{http://dx.doi.org/10.1016/j.bpg.2005.09.003}{\BibEmph{Best Pract Res Clin Gastroenterol}}.  ---
+  \href{http://dx.doi.org/10.1016/j.bpg.2005.09.003}{\BibEmph{Best practice \&
+  research. Clinical gastroenterology}}.  ---
 \newblock 2006.  ---
 \newblock Vol.~20.  ---
 \newblock №~1.  ---
@@ -432,7 +457,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Matsuki~M., Inada~Y., Nakai~G. et~al}. Diffusion-weighed {MR} imaging
   of pancreatic carcinoma~//
-  \href{http://dx.doi.org/10.1007/s00261-007-9192-6}{\BibEmph{Abdom Imaging}}.  ---
+  \href{http://dx.doi.org/10.1007/s00261-007-9192-6}{\BibEmph{Abdominal
+  imaging}}.  ---
 \newblock 2007.  ---
 \newblock Vol.~32.  ---
 \newblock №~4.  ---
@@ -443,7 +469,9 @@
 \BibEmph{Matsumoto~I., Shirakawa~S., Shinzeki~M. et~al}. 18-Fluorodeoxyglucose
   positron emission tomography does not aid in diagnosis of pancreatic ductal
   adenocarcinoma.~//
-  \href{http://dx.doi.org/10.1016/j.cgh.2012.12.033}{\BibEmph{Clin Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1016/j.cgh.2012.12.033}{\BibEmph{Clinical
+  gastroenterology and hepatology : the official clinical practice journal of
+  the American Gastroenterological Association}}.  ---
 \newblock 2013.  ---
 \newblock Vol.~11.  ---
 \newblock №~6.  ---
@@ -453,7 +481,7 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Mehmet~Erturk~S., Ichikawa~T., Sou~H. et~al}. Pancreatic
   adenocarcinoma: {MDCT} versus {MRI} in the detection and assessment of
-  locoregional extension~// \BibEmph{J Comput Tomogr}.
+  locoregional extension~// \BibEmph{Journal of computer assisted tomography}.
   ---
 \newblock 2006.  ---
 \newblock Vol.~30.  ---
@@ -464,7 +492,7 @@
 \selectlanguageifdefined{english}
 \BibEmph{Muniraj~T., Jamidar~P.~A., Aslanian~H.~R.} Pancreatic cancer: A
   comprehensive review and update~//
-  \href{http://dx.doi.org/10.1016/j.disamonth.2013.08.001}{\BibEmph{Dis Mon}}.
+  \href{http://dx.doi.org/10.1016/j.disamonth.2013.08.001}{\BibEmph{Disease-a-Month}}.
    ---
 \newblock 2013.  ---
 \newblock Vol.~59.  ---
@@ -487,7 +515,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Okano~K., Kakinoki~K., Akamoto~S. et~al}. {18F-fluorodeoxyglucose}
   positron emission tomography in the diagnosis of small pancreatic cancer.~//
-  \href{http://dx.doi.org/10.3748/wjg.v17.i2.231}{\BibEmph{World J Gastroenterol}}.  ---
+  \href{http://dx.doi.org/10.3748/wjg.v17.i2.231}{\BibEmph{World journal of
+  gastroenterology : {WJG}}}.  ---
 \newblock 2011.  ---
 \newblock Vol.~17.  ---
 \newblock №~2.  ---
@@ -497,7 +526,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Orlando~L.~A., Kulasingam~S.~L., Matchar~D.~B.} Meta-analysis: the
   detection of pancreatic malignancy with positron emission tomography~//
-  \href{http://dx.doi.org/10.1111/j.1365-2036.2004.02266.x}{\BibEmph{Aliment Pharmacol Ther}}.  ---
+  \href{http://dx.doi.org/10.1111/j.1365-2036.2004.02266.x}{\BibEmph{Alimentary
+  pharmacology \& therapeutics}}.  ---
 \newblock 2004.  ---
 \newblock Vol.~20.  ---
 \newblock №~10.  ---
@@ -508,7 +538,8 @@
 \BibEmph{Ozaki~Y., Oguchi~K., Hamano~H. et~al}. Differentiation of autoimmune
   pancreatitis from suspected pancreatic cancer by fluorine-18
   fluorodeoxyglucose positron emission tomography~//
-  \href{http://dx.doi.org/10.1007/s00535-007-2132-y}{\BibEmph{J Gastroenterol}}.  ---
+  \href{http://dx.doi.org/10.1007/s00535-007-2132-y}{\BibEmph{Journal of
+  gastroenterology}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~43.  ---
 \newblock №~2.  ---
@@ -518,7 +549,8 @@
 \selectlanguageifdefined{english}
 \BibEmph{Plumley~T., Rohrmann~C., Freeny~P. et~al.} Double duct sign:
   reassessed significance in {ERCP}~//
-  \href{http://dx.doi.org/10.2214/ajr.138.1.31}{\BibEmph{Am J Roentgenol}}.  ---
+  \href{http://dx.doi.org/10.2214/ajr.138.1.31}{\BibEmph{American Journal of
+  Roentgenology}}.  ---
 \newblock 1982.  ---
 \newblock Vol. 138.  ---
 \newblock №~1.  ---
@@ -539,7 +571,9 @@
 \BibEmph{Rijkers~A.~P., Valkema~R., Duivenvoorden~H.~J., van Eijck~C. H.~J.}
   Usefulness of F-18-fluorodeoxyglucose positron emission tomography to confirm
   suspected pancreatic cancer: A meta-analysis.~//
-  \href{http://www.ncbi.nlm.nih.gov/pubmed/24755095}{\BibEmph{Eur J Surg Oncol}}.  ---
+  \href{http://www.ncbi.nlm.nih.gov/pubmed/24755095}{\BibEmph{European journal
+  of surgical oncology : the journal of the European Society of Surgical
+  Oncology and the British Association of Surgical Oncology}}.  ---
 \newblock 2014.
 
 \bibitem{rose_18fluorodeoxyglucose-positron_1999}
@@ -547,7 +581,8 @@
 \BibEmph{Rose~D.~M., Delbeke~D., Beauchamp~R.~D. et~al.}
   {18Fluorodeoxyglucose-Positron} Emission Tomography in the Management of
   Patients With Suspected Pancreatic Cancer~//
-  \href{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420818/}{\BibEmph{Ann Surg}}.  ---
+  \href{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420818/}{\BibEmph{Annals
+  of Surgery}}.  ---
 \newblock 1999.  ---
 \newblock Vol. 229.  ---
 \newblock №~5.  ---
@@ -557,7 +592,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Sahani~D.~V., Shah~Z.~K., Catalano~O.~A. et~al}. Radiology of
   pancreatic adenocarcinoma: current status of imaging~//
-  \href{http://dx.doi.org/10.1111/j.1440-1746.2007.05117.x}{\BibEmph{J Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1111/j.1440-1746.2007.05117.x}{\BibEmph{Journal of
+  gastroenterology and hepatology}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~23.  ---
 \newblock №~1.  ---
@@ -568,7 +604,8 @@
 \BibEmph{Seo~S., Doi~R., Machimoto~T. et~al}. Contribution of
   {18F-fluorodeoxyglucose} positron emission tomography to the diagnosis of
   early pancreatic carcinoma~//
-  \href{http://dx.doi.org/10.1007/s00534-007-1339-x}{\BibEmph{J Hepatobiliary Pancreat Surg}}.  ---
+  \href{http://dx.doi.org/10.1007/s00534-007-1339-x}{\BibEmph{Journal of
+  hepato-biliary-pancreatic surgery}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~15.  ---
 \newblock №~6.  ---
@@ -578,7 +615,8 @@
 \selectlanguageifdefined{english}
 \BibEmph{Serrano~O.~K., Chaudhry~M.~A., Leach~S.~D.} The role of {PET} scanning
   in pancreatic cancer~//
-  \href{http://www.ncbi.nlm.nih.gov/pubmed/20919529}{\BibEmph{Adv Surg}}.  ---
+  \href{http://www.ncbi.nlm.nih.gov/pubmed/20919529}{\BibEmph{Advances in
+  Surgery}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~44.  ---
 \newblock P.~313--325.
@@ -588,7 +626,8 @@
 \BibEmph{Takakura~K., Sumiyama~K., Munakata~K. et~al}. Clinical usefulness of
   diffusion-weighted {MR} imaging for detection of pancreatic cancer:
   comparison with enhanced multidetector-row {CT}~//
-  \href{http://dx.doi.org/10.1007/s00261-011-9728-7}{\BibEmph{Abdom Imaging}}.  ---
+  \href{http://dx.doi.org/10.1007/s00261-011-9728-7}{\BibEmph{Abdominal
+  imaging}}.  ---
 \newblock 2011.  ---
 \newblock Vol.~36.  ---
 \newblock №~4.  ---
@@ -599,7 +638,8 @@
 \BibEmph{Tamm~E.~P., Loyer~E.~M., Faria~S.~C. et~al}. Retrospective analysis of
   dual-phase {MDCT} and follow-up {EUS/EUS-FNA} in the diagnosis of pancreatic
   cancer~//
-  \href{http://dx.doi.org/10.1007/s00261-007-9298-x}{\BibEmph{Abdom Imaging}}.  ---
+  \href{http://dx.doi.org/10.1007/s00261-007-9298-x}{\BibEmph{Abdominal
+  Imaging}}.  ---
 \newblock 2007.  ---
 \newblock Vol.~32.  ---
 \newblock №~5.  ---
@@ -610,7 +650,8 @@
 \BibEmph{Tang~S., Huang~G., Liu~J. et~al}. Usefulness of {18F-FDG} {PET},
   combined {FDG-PET/CT} and {EUS} in diagnosing primary pancreatic carcinoma: a
   meta-analysis~//
-  \href{http://dx.doi.org/10.1016/j.ejrad.2009.09.026}{\BibEmph{Eur J Radiol}}.  ---
+  \href{http://dx.doi.org/10.1016/j.ejrad.2009.09.026}{\BibEmph{European
+  journal of radiology}}.  ---
 \newblock 2011.  ---
 \newblock Vol.~78.  ---
 \newblock №~1.  ---
@@ -620,7 +661,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{van Kouwen~M. C.~A., Jansen~J. B. M.~J., van Goor~H. et~al}. {FDG-PET}
   is able to detect pancreatic carcinoma in chronic pancreatitis~//
-  \href{http://dx.doi.org/10.1007/s00259-004-1689-4}{\BibEmph{Eur J Nucl Med Mol Imaging}}.  ---
+  \href{http://dx.doi.org/10.1007/s00259-004-1689-4}{\BibEmph{European journal
+  of nuclear medicine and molecular imaging}}.  ---
 \newblock 2005.  ---
 \newblock Vol.~32.  ---
 \newblock №~4.  ---
@@ -630,7 +672,8 @@
 \selectlanguageifdefined{english}
 \BibEmph{Varadarajulu~S., Eloubeidi~M.~A.} The Role of Endoscopic
   Ultrasonography in the Evaluation of Pancreatico-Biliary Cancer~//
-  \href{http://dx.doi.org/10.1016/j.suc.2010.01.002}{\BibEmph{Surg Clin North Am}}.  ---
+  \href{http://dx.doi.org/10.1016/j.suc.2010.01.002}{\BibEmph{Surgical Clinics
+  of North America}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~90.  ---
 \newblock №~2.  ---
@@ -640,7 +683,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Wang~W., Shpaner~A., Krishna~S.~G. et~al}. Use of {EUS-FNA} in
   diagnosing pancreatic neoplasm without a definitive mass on {CT}~//
-  \href{http://dx.doi.org/10.1016/j.gie.2013.01.040}{\BibEmph{Gastrointest Endosc}}.  ---
+  \href{http://dx.doi.org/10.1016/j.gie.2013.01.040}{\BibEmph{Gastrointestinal
+  endoscopy}}.  ---
 \newblock 2013.  ---
 \newblock Vol.~78.  ---
 \newblock №~1.  ---
@@ -650,7 +694,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Wang~Z., Chen~J.-Q., Liu~J.-L. et~al}. {FDG-PET} in diagnosis, staging
   and prognosis of pancreatic carcinoma: a meta-analysis~//
-  \href{http://dx.doi.org/10.3748/wjg.v19.i29.4808}{\BibEmph{World J Gastroenterol}}.  ---
+  \href{http://dx.doi.org/10.3748/wjg.v19.i29.4808}{\BibEmph{World journal of
+  gastroenterology: {WJG}}}.  ---
 \newblock 2013.  ---
 \newblock Vol.~19.  ---
 \newblock №~29.  ---
@@ -661,7 +706,8 @@
 \BibEmph{Wehrmann~T., Eckardt~A.~J., Riphaus~A.} Magnetic resonance
   cholangiopancreatography ({MRCP)} for suspected bilio-pancreatic disease:
   should the endoscopist take a second look?~//
-  \href{http://dx.doi.org/10.1055/s-0032-1325377}{\BibEmph{Z Gastroenterol}}.  ---
+  \href{http://dx.doi.org/10.1055/s-0032-1325377}{\BibEmph{Zeitschrift fur
+  Gastroenterologie}}.  ---
 \newblock 2013.  ---
 \newblock Vol.~51.  ---
 \newblock №~2.  ---
@@ -671,7 +717,9 @@
 \selectlanguageifdefined{english}
 \BibEmph{Wong~J.~C., Lu~D. S.~K.} Staging of pancreatic adenocarcinoma by
   imaging studies~//
-  \href{http://dx.doi.org/10.1016/j.cgh.2008.09.014}{\BibEmph{Clin Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1016/j.cgh.2008.09.014}{\BibEmph{Clinical
+  Gastroenterology and Hepatology: The Official Clinical Practice Journal of
+  the American Gastroenterological Association}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~6.  ---
 \newblock №~12.  ---
@@ -684,7 +732,8 @@
   fluorodeoxyglucose positron emission tomography/computed tomography for
   pancreatic malignancy: a meta-analysis using a hierarchical regression
   model~//
-  \href{http://dx.doi.org/10.1111/j.1440-1746.2012.07112.x}{\BibEmph{J Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1111/j.1440-1746.2012.07112.x}{\BibEmph{Journal of
+  gastroenterology and hepatology}}.  ---
 \newblock 2012.  ---
 \newblock Vol.~27.  ---
 \newblock №~6.  ---
@@ -694,7 +743,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Wu~L.-M., Xu~J.-R., Hua~J. et~al}. Value of diffusion-weighted imaging
   for the discrimination of pancreatic lesions: a meta-analysis~//
-  \href{http://dx.doi.org/10.1097/MEG.0b013e32834eff37}{\BibEmph{Eur J Gastroenterol Hepatol}}.  ---
+  \href{http://dx.doi.org/10.1097/MEG.0b013e32834eff37}{\BibEmph{European
+  journal of gastroenterology \& hepatology}}.  ---
 \newblock 2012.  ---
 \newblock Vol.~24.  ---
 \newblock №~2.  ---
@@ -704,7 +754,8 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Yamada~Y., Mori~H., Matsumoto~S. et~al}. Pancreatic adenocarcinoma
   versus chronic pancreatitis: differentiation with triple-phase helical
-  {CT}~// \href{http://dx.doi.org/10.1007/s00261-009-9579-7}{\BibEmph{Abdom Imaging}}.  ---
+  {CT}~// \href{http://dx.doi.org/10.1007/s00261-009-9579-7}{\BibEmph{Abdominal
+  imaging}}.  ---
 \newblock 2010.  ---
 \newblock Vol.~35.  ---
 \newblock №~2.  ---
@@ -713,7 +764,7 @@
 \bibitem{yasuda_diagnosis_1988}
 \selectlanguageifdefined{eng}
 \BibEmph{Yasuda~K., Mukai~H., Fujimoto~S. et~al}. The diagnosis of pancreatic
-  cancer by endoscopic ultrasonography~// \BibEmph{Gastrointest Endosc}.
+  cancer by endoscopic ultrasonography~// \BibEmph{Gastrointestinal endoscopy}.
    ---
 \newblock 1988.  ---
 \newblock Vol.~34.  ---
@@ -735,7 +786,7 @@
 \selectlanguageifdefined{eng}
 \BibEmph{Zhang~S., Wang~Y.-M., Sun~C.-D. et~al}. Clinical value of serum
   {CA19-9} levels in evaluating resectability of pancreatic carcinoma~//
-  \BibEmph{World J Gastroenterol}.  ---
+  \BibEmph{World journal of gastroenterology: {WJG}}.  ---
 \newblock 2008.  ---
 \newblock Vol.~14.  ---
 \newblock №~23.  ---
