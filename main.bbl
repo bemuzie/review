@@ -106,17 +106,6 @@
 \newblock №~3.  ---
 \newblock P.~605--608.
 
-\bibitem{brennan_comprehensive_2007}
-\selectlanguageifdefined{english}
-\BibEmph{Brennan~D. D.~D., Zamboni~G.~A., Raptopoulos~V.~D., Kruskal~J.~B.}
-  Comprehensive Preoperative Assessment of Pancreatic Adenocarcinoma with
-  64-Section Volumetric {CT1}~//
-  \href{http://dx.doi.org/10.1148/rg.276075034}{\BibEmph{Radiographics}}.  ---
-\newblock 2007.  ---
-\newblock Vol.~27.  ---
-\newblock №~6.  ---
-\newblock P.~1653 --1666.
-
 \bibitem{bronstein_detection_2004}
 \selectlanguageifdefined{english}
 \BibEmph{Bronstein~Y.~L., Loyer~E.~M., Kaur~H. et~al.} Detection of small
@@ -306,17 +295,6 @@
 \newblock Vol. 143.  ---
 \newblock №~1.  ---
 \newblock P.~129--133.
-
-\bibitem{ichikawa_high-b_2007}
-\selectlanguageifdefined{eng}
-\BibEmph{Ichikawa~T., Erturk~S.~M., Motosugi~U. et~al}. High-b value
-  diffusion-weighted {MRI} for detecting pancreatic adenocarcinoma: preliminary
-  results~// \href{http://dx.doi.org/10.2214/AJR.05.1918}{\BibEmph{{AJR.}
-  American journal of roentgenology}}.  ---
-\newblock 2007.  ---
-\newblock Vol. 188.  ---
-\newblock №~2.  ---
-\newblock P.~409--414.
 
 \bibitem{ichikawa_pancreatic_1997}
 \selectlanguageifdefined{en}
@@ -510,16 +488,6 @@
 \newblock №~4.  ---
 \newblock P.~583--590.
 
-\bibitem{miller_mri_2006}
-\selectlanguageifdefined{eng}
-\BibEmph{Miller~F.~H., Rini~N.~J., Keppke~A.~L.} {MRI} of adenocarcinoma of the
-  pancreas~// \href{http://dx.doi.org/10.2214/AJR.05.0875}{\BibEmph{{AJR.}
-  American journal of roentgenology}}.  ---
-\newblock 2006.  ---
-\newblock Vol. 187.  ---
-\newblock №~4.  ---
-\newblock P.~W365--374.
-
 \bibitem{muniraj_pancreatic_2013}
 \selectlanguageifdefined{english}
 \BibEmph{Muniraj~T., Jamidar~P.~A., Aslanian~H.~R.} Pancreatic cancer: A
@@ -542,17 +510,6 @@
 \newblock Vol.~89.  ---
 \newblock №~12.  ---
 \newblock P.~2547--2554.
-
-\bibitem{nino-murcia_multidetector_2001}
-\selectlanguageifdefined{english}
-\BibEmph{Nino-Murcia~M., Jeffrey~R.~B., Beaulieu~C.~F. et~al.} Multidetector
-  {CT} of the Pancreas and Bile Duct System~//
-  \href{http://dx.doi.org/10.2214/ajr.176.3.1760689}{\BibEmph{American Journal
-  of Roentgenology}}.  ---
-\newblock 2001.  ---
-\newblock Vol. 176.  ---
-\newblock №~3.  ---
-\newblock P.~689--693.
 
 \bibitem{okano_18f-fluorodeoxyglucose_2011}
 \selectlanguageifdefined{eng}
@@ -608,18 +565,6 @@
 \newblock Vol. 224.  ---
 \newblock №~3.  ---
 \newblock P.~764--768.
-
-\bibitem{raptopoulos_multiplanar_1998}
-\selectlanguageifdefined{eng}
-\BibEmph{Raptopoulos~V., Prassopoulos~P., Chuttani~R. et~al}. Multiplanar {CT}
-  pancreatography and distal cholangiography with minimum intensity
-  projections~//
-  \href{http://dx.doi.org/10.1148/radiology.207.2.9577475}{\BibEmph{Radiology}}.
-   ---
-\newblock 1998.  ---
-\newblock Vol. 207.  ---
-\newblock №~2.  ---
-\newblock P.~317--324.
 
 \bibitem{rijkers_usefulness_2014}
 \selectlanguageifdefined{{'ENG'}}
@@ -805,18 +750,6 @@
 \newblock №~2.  ---
 \newblock P.~134--142.
 
-\bibitem{xu_endoscopic_2013}
-\selectlanguageifdefined{eng}
-\BibEmph{Xu~W., Shi~J., Li~X. et~al}. Endoscopic ultrasound elastography for
-  differentiation of benign and malignant pancreatic masses: a systemic review
-  and meta-analysis~//
-  \href{http://dx.doi.org/10.1097/MEG.0b013e32835a7f7c}{\BibEmph{European
-  journal of gastroenterology \& hepatology}}.  ---
-\newblock 2013.  ---
-\newblock Vol.~25.  ---
-\newblock №~2.  ---
-\newblock P.~218--224.
-
 \bibitem{yamada_pancreatic_2010}
 \selectlanguageifdefined{eng}
 \BibEmph{Yamada~Y., Mori~H., Matsumoto~S. et~al}. Pancreatic adenocarcinoma
@@ -838,17 +771,6 @@
 \newblock №~1.  ---
 \newblock P.~1--8.
 
-\bibitem{ying_clinical_2013}
-\selectlanguageifdefined{eng}
-\BibEmph{Ying~L., Lin~X., Xie~Z.-L. et~al}. Clinical utility of endoscopic
-  ultrasound elastography for identification of malignant pancreatic masses: a
-  meta-analysis~// \href{http://dx.doi.org/10.1111/jgh.12292}{\BibEmph{Journal
-  of gastroenterology and hepatology}}.  ---
-\newblock 2013.  ---
-\newblock Vol.~28.  ---
-\newblock №~9.  ---
-\newblock P.~1434--1443.
-
 \bibitem{yoon_small_2011}
 \selectlanguageifdefined{english}
 \BibEmph{Yoon~S.~H., Lee~J.~M., Cho~J.~Y. et~al.} Small (≤20 mm) Pancreatic
@@ -869,17 +791,5 @@
 \newblock Vol.~14.  ---
 \newblock №~23.  ---
 \newblock P.~3750--3753.
-
-\bibitem{zhu_differentiation_2013}
-\selectlanguageifdefined{eng}
-\BibEmph{Zhu~M., Xu~C., Yu~J. et~al}. Differentiation of pancreatic cancer and
-  chronic pancreatitis using computer-aided diagnosis of endoscopic ultrasound
-  ({EUS)} images: a diagnostic test~//
-  \href{http://dx.doi.org/10.1371/journal.pone.0063820}{\BibEmph{{PloS} one}}.
-  ---
-\newblock 2013.  ---
-\newblock Vol.~8.  ---
-\newblock №~5.  ---
-\newblock P.~e63820.
 
 \end{thebibliography}
