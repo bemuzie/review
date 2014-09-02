@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.3.3)  2 SEP 2014 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.3.3)  2 SEP 2014 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,7 +7,8 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 {\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  main
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml, charset=utf-8.a.b.c.
+\input  main
 (./main.tex (/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
@@ -953,9 +954,6 @@ version 2008-10-27-17:23
 
 (./main.tmp)
 \tmp:dim=\skip103
---------------------------------------
---- Note --- for XML code, use the command line option `xml' or `xhtml'
---------------------------------------
  (./main.xref)
 \:refout=\write3
 \openout3 = `main.xref'.
@@ -993,10 +991,6 @@ version 2009-05-18-23:01
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/tex4ht/html4.4ht
 --------------------------------------
---- Note --- for alternative charset, use the command line option `charset=...'
-
---------------------------------------
---------------------------------------
 --- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
 on
 --------------------------------------
@@ -1021,7 +1015,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: html
+TeX4ht package options: xhtml,charset=utf-8,html
 --------------------------------------
 --- Note --- to ignore CSS code, use the command line option `-css
 --------------------------------------
@@ -1610,12 +1604,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 24.
 (\end occurred when \ifnum on line 263 was incomplete)
 (\end occurred when \ifnum on line 263 was incomplete) 
 Here is how much of TeX's memory you used:
- 17668 strings out of 493309
- 243060 string characters out of 6137849
- 450995 words of memory out of 5000000
- 20683 multiletter control sequences out of 15000+600000
+ 17675 strings out of 493309
+ 243119 string characters out of 6137849
+ 451377 words of memory out of 5000000
+ 20690 multiletter control sequences out of 15000+600000
  17009 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,8n,47p,2430b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,47p,2450b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (29 pages, 178140 bytes).
+Output written on main.dvi (29 pages, 180164 bytes).
