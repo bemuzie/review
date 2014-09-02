@@ -1,12 +1,12 @@
  
 /* start css.sty */
-.latt-1200{font-family: monospace;}
-.lati-1200{font-style: italic;}
 .larm-1095{font-size:83%;}
-.larm-1000{font-size:83%;}
+.latt-1200{font-family: monospace;}
 .labx-1200{font-weight: bold;}
+.larm-1000{font-size:83%;}
 .cmr-8{font-size:66%;}
 .cmmi-12{font-style: italic;}
+.cmsy-8{font-size:66%;}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
 p.nopar { text-indent: 0em; }
@@ -51,8 +51,6 @@ div.flushleft {text-align: left;}
 .framebox-r {text-align:right;}
 span.thank-mark{ vertical-align: super }
 span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
-div.footnotes{border-top:solid 1px black; border-bottom:solid 1px black; padding-bottom:1ex; padding-top:0.5ex; margin-right:15%; margin-top:2ex; font-style:italic; font-size:85%;}
-div.footnotes p{margin-top:0; margin-bottom:0; text-indent:0;}
 div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
 table.tabular td p{margin-top:0em;}
 table.tabular {margin-left: auto; margin-right: auto;}
@@ -95,9 +93,6 @@ span.pmatrix img{vertical-align:middle;}
 div.pmatrix {text-align:center;}
 table.pmatrix {width:100%;}
 span.bar-css {text-decoration:overline;}
-body {text-align:both;}
-span.footnotetext{ font-size:80%; font-style:italic; } 
-div.footnotes{border-bottom:0;}
 img.cdots{vertical-align:middle;}
 div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
 table.tabular td p{margin-top:0em;}
@@ -133,6 +128,7 @@ h2.titleHead{text-align:center;}
 div.maketitle{ margin-bottom: 2em; }
 div.author, div.date {text-align:center;}
 div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+div.author{white-space: nowrap;}
 .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
 h1.partHead{text-align: center}
 .abstract p {margin-left:5%; margin-right:5%;}
